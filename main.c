@@ -12,7 +12,7 @@ int main(void) {
 	
 	arr = (int*)realloc(arr, 100*sizeof(int));
 	
-	fuckfuckfuck;
+	// fuckfuckfuck;
 
     return 0;
 }
