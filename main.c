@@ -11,6 +11,8 @@ int main(void) {
 		arr[i] = 1;
 	
 	arr = (int*)realloc(arr, 100*sizeof(int));
+	
+	fuckfuckfuck;
 
     return 0;
 }
